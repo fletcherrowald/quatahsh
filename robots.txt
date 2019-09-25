@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oonaeyiowe.inquiryum.com/sitemap.xml
